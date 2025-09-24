@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  @apply bg-[rgb(245,248,253)] text-gray-900;
+}
+
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
+
+.btn-primary {
+  @apply rounded-xl bg-primary text-white font-semibold px-4 py-2 hover:opacity-90;
+}
+.btn-outline {
+  @apply rounded-xl border font-semibold px-4 py-2 hover:bg-gray-50;
+}
+.badge {
+  @apply inline-flex items-center rounded-full border px-3 py-1 text-xs font-medium;
+}
+.card {
+  @apply rounded-2xl bg-white border shadow-card;
+}
+.ribbon {
+  position: absolute;
+  left: 0.75rem;
+  top: 0.75rem;
+  padding: 0.25rem 0.75rem;
+  background: theme('colors.scarcity.DEFAULT');
+  color: white;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}

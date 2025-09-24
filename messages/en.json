@@ -1,0 +1,78 @@
+{
+  "brand": "Bora Faturar Real Estate",
+  "nav": {
+    "listings": "Listings",
+    "how": "How it works",
+    "contact": "Contact"
+  },
+  "cta": {
+    "whatsapp": "WhatsApp",
+    "speakNow": "Talk now (PT/EN)",
+    "viewDetails": "View details"
+  },
+  "hero": {
+    "title": "Your next home with a personalized payment plan",
+    "subtitle": "Tailored conditions \u2022 Advisory service \u2022 Selected portfolio in BH & Metro"
+  },
+  "search": {
+    "placeholder": "Search by city, neighborhood, development...",
+    "price": "Price (min\u2013max)",
+    "rooms": "Bedrooms",
+    "baths": "Bathrooms",
+    "parking": "Parking",
+    "area": "Area (min\u2013max)",
+    "filters": "Filters",
+    "city": "City"
+  },
+  "listing": {
+    "lastUnits": "Last units",
+    "sold": "{percent}% sold",
+    "from": "from {price}",
+    "specs": {
+      "rooms": "BR",
+      "baths": "BA",
+      "parking": "PK",
+      "area": "sq m"
+    }
+  },
+  "footer": {
+    "allRights": "\u00a9 2025 Bora Faturar Real Estate. All rights reserved.",
+    "creci": "CRECI 00000/MG \u2022 Service in BH & Metro",
+    "contact": "WhatsApp: +55 31 99609-0508 \u2022 Email: contato@borafaturar.com",
+    "instagram": "Instagram: {handle} (customizable)"
+  },
+  "landing": {
+    "back": "Back",
+    "techSheet": "Tech sheet",
+    "plans": "Floor plans",
+    "downloadPdf": "Download PDF",
+    "amenities": "Amenities",
+    "conditions": "Conditions",
+    "personalizedFlow": "Personalized payment flow for each client.",
+    "updatedAt": "Updated on {date}",
+    "leadTitle": "Schedule a visit or simulate",
+    "leadDesc": "Fill in the form. I\u2019ll reply today.",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "simulateToggle": "I want to simulate financing",
+      "typology": "Typology",
+      "types": {
+        "studio": "Studio",
+        "1": "1 bedroom",
+        "2": "2 bedrooms",
+        "3": "3 bedrooms"
+      },
+      "extras": {
+        "privateArea": "Private outdoor area",
+        "penthouse": "Penthouse"
+      },
+      "installment": "Installment value",
+      "income": "Income",
+      "down": "Down payment available",
+      "fgts": "FGTS",
+      "submit": "Send & talk on WhatsApp"
+    }
+  }
+}

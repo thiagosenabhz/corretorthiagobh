@@ -1,0 +1,78 @@
+{
+  "brand": "Bora Faturar Im\u00f3veis",
+  "nav": {
+    "listings": "Empreendimentos",
+    "how": "Como funciona",
+    "contact": "Contato"
+  },
+  "cta": {
+    "whatsapp": "WhatsApp",
+    "speakNow": "Fale agora (PT/EN)",
+    "viewDetails": "Ver detalhes"
+  },
+  "hero": {
+    "title": "Seu pr\u00f3ximo im\u00f3vel com fluxo de pagamento personalizado",
+    "subtitle": "Condi\u00e7\u00f5es sob medida \u2022 Atendimento consultivo \u2022 Portf\u00f3lio selecionado em BH e Regi\u00e3o"
+  },
+  "search": {
+    "placeholder": "Buscar por cidade, bairro, empreendimento...",
+    "price": "Pre\u00e7o (min\u2013m\u00e1x)",
+    "rooms": "Quartos",
+    "baths": "Banheiros",
+    "parking": "Vagas",
+    "area": "Metragem (min\u2013m\u00e1x)",
+    "filters": "Filtros",
+    "city": "Cidade"
+  },
+  "listing": {
+    "lastUnits": "\u00daltimas unidades",
+    "sold": "{percent}% vendido",
+    "from": "a partir de {price}",
+    "specs": {
+      "rooms": "Q",
+      "baths": "B",
+      "parking": "V",
+      "area": "m\u00b2"
+    }
+  },
+  "footer": {
+    "allRights": "\u00a9 2025 Bora Faturar Im\u00f3veis. Todos os direitos reservados.",
+    "creci": "CRECI 00000/MG \u2022 Atendimento BH e Regi\u00e3o",
+    "contact": "WhatsApp: +55 31 99609-0508 \u2022 E-mail: contato@borafaturar.com",
+    "instagram": "Instagram: {handle} (customiz\u00e1vel)"
+  },
+  "landing": {
+    "back": "Voltar",
+    "techSheet": "Ficha t\u00e9cnica",
+    "plans": "Plantas",
+    "downloadPdf": "Baixar PDF",
+    "amenities": "\u00c1rea de lazer",
+    "conditions": "Condi\u00e7\u00f5es",
+    "personalizedFlow": "Fluxo de pagamento personalizado para cada cliente.",
+    "updatedAt": "Atualizado em {date}",
+    "leadTitle": "Agende uma visita ou simule",
+    "leadDesc": "Preencha o formul\u00e1rio. Respondo hoje.",
+    "form": {
+      "name": "Nome",
+      "phone": "Telefone",
+      "email": "E-mail",
+      "simulateToggle": "Quero simular financiamento",
+      "typology": "Tipologia",
+      "types": {
+        "studio": "Studio",
+        "1": "1 quarto",
+        "2": "2 quartos",
+        "3": "3 quartos"
+      },
+      "extras": {
+        "privateArea": "\u00c1rea privativa",
+        "penthouse": "Cobertura"
+      },
+      "installment": "Valor de parcela",
+      "income": "Renda",
+      "down": "Entrada dispon\u00edvel",
+      "fgts": "FGTS",
+      "submit": "Enviar e falar no WhatsApp"
+    }
+  }
+}
