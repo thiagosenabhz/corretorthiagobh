@@ -8,10 +8,16 @@ const config: Config = {
     "./lib/**/*.{js,ts,jsx,tsx,mdx}",
     "./data/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  theme: { extend: {} },
+  theme: {
+    extend: {
+      colors: {
+        // defina sua cor “scarcity” aqui
+        scarcity: {
+          DEFAULT: "#F97316", // exemplo (laranja). Troque pelo seu hex desejado.
+        },
+      },
+    },
+  },
   plugins: [],
-  // Opcional: classes de teste para garantir que algo apareça mesmo que não haja uso.
-  safelist: ["p-10", "text-white", "bg-zinc-900"],
 };
-
 export default config;
